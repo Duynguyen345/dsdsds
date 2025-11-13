@@ -1,0 +1,27 @@
+h2 {
+  opacity: 0.05;
+  display: none;
+}
+
+h1 {
+  color: aliceblue;
+  font-family: "Times New Roman", Times, serif;
+  font-style: italic;
+  font-display: blockS;
+  margin-top: 1200px; /* cách trên 100px */
+  margin-left: 150px; /* dịch sang phải 200px */
+  display: none;
+}
+body {
+  background-image: url(./img/photo-1682537832160-36fda663b04a.avif);
+  background-repeat: no-repeat; /* Ngừng lặp ảnh */
+  background-size: cover; /* Ảnh phủ toàn màn hình */
+  background-position: center;
+}
+
+html,
+body {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}

@@ -1,0 +1,6 @@
+p:hover {
+  color: lavender;
+}
+p.e:active {
+  color: darkmagenta;
+}
