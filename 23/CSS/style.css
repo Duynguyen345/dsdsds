@@ -1,0 +1,9 @@
+h1 {
+  color: red;
+  /* màu chữ */
+  font-style: oblique;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  text-transform: lowercase;
+  text-align: left;
+  font-size: 50px;
+}
